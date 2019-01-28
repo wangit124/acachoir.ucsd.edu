@@ -15,26 +15,7 @@
     width:100%;
     margin: auto;
   }
-  .calender-frame{
-      text-align:center;
-      margin:auto;
-      width:100%;
-  }
-
-  .myframe {
-      transition: 0.5s ease;
-  }
-  .myframe:hover {
-      transition: 0.5s ease;
-      opacity:0.45;
-
-  }
-  .myoverlay {
-      background-color:white;
-      height:100%;
-      width:100%;
-      margin:auto;
-  }
+  
   /* Hide the images by default */
   .myslider-item-1{
     height:100%;
@@ -141,13 +122,8 @@
     list-style-type: none;
     margin-right:20px;
 }
-.timeline-3{
-    list-style-type:none;
-    list-style:none;	    
+.timeline-3 {
     margin-right:40px;
-}
-.timeline-3 li {
-    list-style:none;	    
 }
 .timeline-2 .row{
     width:50%;
@@ -173,7 +149,6 @@
     list-style-type: none;
     margin-right:40px;
 }
-
 input {
     name:black;
     color:black;
@@ -231,7 +206,7 @@ video {
         height:900px;
     }
     .schedule {
-        width:90%;
+        width:100%;
     }
     .my-row{
         width:50%;
@@ -256,7 +231,7 @@ video {
 
 .myslider{
     max-width: 1000px;
-    height:35%;
+    height:32%;
     width:100%;
     margin: auto;
   }
@@ -266,14 +241,6 @@ video {
 }
 @media(max-width: 400px) {
 .myslider{
-	height:30%;
+	height:100px;
 }
-}
-.myform{
-    margin:auto;
-    width:95%;
-    height:50%;
-}
-.myform .calender-frame{
-    visibility:visible;
 }
