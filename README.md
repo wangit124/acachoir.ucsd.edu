@@ -1,6 +1,6 @@
 # acachoir.ucsd.edu
-The homepage for UCSD A Cappella Club, contains club events, calender, etc.
+The main page for my student organization UCSD A Cappella Choir, check it out!
 
 Bootstrap API not included
 
-![alt text](https://github.com/hwanggit/hwanggit.github.io/blob/master/projects/acachoir.png)
+![alt text](https://github.com/hwanggit/hwanggit.github.io/blob/master/projects/acachoir.PNG)
